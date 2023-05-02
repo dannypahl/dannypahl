@@ -1,8 +1,8 @@
 ### Hi, I'm Danny! 👋
 
 ### I'm a junior at the University of Iowa, studying Business Analytics & Information Systems. 
-
-### Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/dannypahl/ 
+---
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dannypahl/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dannypahl.com/) 
 ### And for all my fellow hawkeyes connect with me on Handshake: https://uiowa.joinhandshake.com/stu/users/24488298
 ### Go Hawks!
 
