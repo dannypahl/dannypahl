@@ -1,6 +1,6 @@
 ### Hi, I'm Danny! 👋
 
-### I'm a junior at the University of Iowa, actively studying Business Analytics & Information Systems
+### I'm a junior at the University of Iowa, actively studying Business Analytics & Information Systems. 
 
 <!--
 **dannypahl/dannypahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
