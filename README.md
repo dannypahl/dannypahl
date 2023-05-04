@@ -3,7 +3,7 @@
 ### I'm a junior at the University of Iowa, studying Business Analytics & Information Systems. 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dannypahl/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dannypahl.com/) 
-### Go Hawks!
+### Go Hawks!🐥
 
 <!--
 **dannypahl/dannypahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
